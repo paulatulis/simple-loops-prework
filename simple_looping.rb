@@ -5,7 +5,6 @@ def loop_iterator(number_of_times)
   7.times do 
     puts "Welcome to Flatiron School's Web Development Course!"
     number_of_times += 1 
-      break
     end 
   
   # Code your solution here using the "loop" keyword to puts out the below phrase
